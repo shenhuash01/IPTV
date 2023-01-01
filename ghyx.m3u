@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1综合
+http://192.168.1.20:4567/gehua.php?id=cctv1hd
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2财经
+http://192.168.1.20:4567/gehua.php?id=cctv2hd
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3综艺
+http://192.168.1.20:4567/gehua.php?id=cctv3hd
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4中文国际
+http://192.168.1.20:4567/gehua.php?id=cctv4hd
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5体育
+http://192.168.1.20:4567/gehua.php?id=cctv5hd
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+体育
+http://192.168.1.20:4567/gehua.php?id=cctv5phd
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6电影
+http://192.168.1.20:4567/gehua.php?id=cctv6hd
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7国防军事
+http://192.168.1.20:4567/gehua.php?id=cctv7hd
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8电视剧
+http://192.168.1.20:4567/gehua.php?id=cctv8hd
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9纪录
+http://192.168.1.20:4567/gehua.php?id=cctv9hd
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10科教
+http://192.168.1.20:4567/gehua.php?id=cctv10hd
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11戏曲
+http://192.168.1.20:4567/gehua.php?id=cctv11b
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12社会与法
+http://192.168.1.20:4567/gehua.php?id=cctv12hd
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13新闻
+http://192.168.1.20:4567/gehua.php?id=cctv13b
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14少儿
+http://192.168.1.20:4567/gehua.php?id=cctv14hd
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15音乐
+http://192.168.1.20:4567/gehua.php?id=cctv15b
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16奥林匹克
+http://192.168.1.20:4567/gehua.php?id=cctv16hd
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17农业农村
+http://192.168.1.20:4567/gehua.php?id=cctv17hd
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+http://192.168.1.20:4567/gehua.php?id=cgtn2
+#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="地方",发现之旅
+http://192.168.1.20:4567/gehua.php?id=fxzl2
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",老故事
+http://192.168.1.20:4567/gehua.php?id=lgs2
+#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道
+http://192.168.1.20:4567/gehua.php?id=sh2
+#EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="未分类",中国天气
+http://192.168.1.20:4567/gehua.php?id=zgtq2
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="未分类",CETV1中教1台
+http://192.168.1.20:4567/gehua.php?id=cetv1hd
+#EXTINF:-1 tvg-id="" tvg-name="CETV3" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="未分类",CETV3中教3台
+http://192.168.1.20:4567/gehua.php?id=cetv3b
+#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="未分类",CETV4中教4台
+http://192.168.1.20:4567/gehua.php?id=cetv4b
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",CETV早期教育
+http://192.168.1.20:4567/gehua.php?id=zqjy2
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+http://192.168.1.20:4567/gehua.php?id=chcgqhd
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+http://192.168.1.20:4567/gehua.php?id=chcdz2
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
+http://192.168.1.20:4567/gehua.php?id=chcjt2
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://192.168.1.20:4567/gehua.php?id=bjhd
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://192.168.1.20:4567/gehua.php?id=dfhd
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://192.168.1.20:4567/gehua.php?id=tjhd
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://192.168.1.20:4567/gehua.php?id=cqhd
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://192.168.1.20:4567/gehua.php?id=hljhd
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://192.168.1.20:4567/gehua.php?id=jlhd
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://192.168.1.20:4567/gehua.php?id=lnhd
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://192.168.1.20:4567/gehua.php?id=nmws2
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
+http://192.168.1.20:4567/gehua.php?id=nxws2
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
+http://192.168.1.20:4567/gehua.php?id=gsws2
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
+http://192.168.1.20:4567/gehua.php?id=qhws2
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+http://192.168.1.20:4567/gehua.php?id=sxws2
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://192.168.1.20:4567/gehua.php?id=hbhd
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://192.168.1.20:4567/gehua.php?id=sxiws2
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://192.168.1.20:4567/gehua.php?id=sdhd
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://192.168.1.20:4567/gehua.php?id=ahhd
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://192.168.1.20:4567/gehua.php?id=hnhd
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://192.168.1.20:4567/gehua.php?id=hubhd
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+http://192.168.1.20:4567/gehua.php?id=hunhd
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://192.168.1.20:4567/gehua.php?id=jxhd
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://192.168.1.20:4567/gehua.php?id=jshd
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://192.168.1.20:4567/gehua.php?id=zjhd
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://192.168.1.20:4567/gehua.php?id=dnhd
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
+http://192.168.1.20:4567/gehua.php?id=xmws2
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://192.168.1.20:4567/gehua.php?id=gdhd
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://192.168.1.20:4567/gehua.php?id=szhd
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://192.168.1.20:4567/gehua.php?id=ynws2
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://192.168.1.20:4567/gehua.php?id=gzws2
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://192.168.1.20:4567/gehua.php?id=schd
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+http://192.168.1.20:4567/gehua.php?id=xjws2
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
+http://192.168.1.20:4567/gehua.php?id=btws2
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+http://192.168.1.20:4567/gehua.php?id=xzws2
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+http://192.168.1.20:4567/gehua.php?id=hinhd
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
+http://192.168.1.20:4567/gehua.php?id=ssws2
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+http://192.168.1.20:4567/gehua.php?id=jykt2
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",北京文艺
+http://192.168.1.20:4567/gehua.php?id=bjwyhd
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实科教
+http://192.168.1.20:4567/gehua.php?id=bjjskj2
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="北京",北京影视
+http://192.168.1.20:4567/gehua.php?id=bjyshd
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="北京",北京财经
+http://192.168.1.20:4567/gehua.php?id=bjcj2
+#EXTINF:-1 tvg-id="" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="北京",北京体育休闲
+http://192.168.1.20:4567/gehua.php?id=bjtyxxhd
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="北京",北京生活
+http://192.168.1.20:4567/gehua.php?id=bjsh2
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="北京",北京青年
+http://192.168.1.20:4567/gehua.php?id=bjq2
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京",北京新闻
+http://192.168.1.20:4567/gehua.php?id=bjxwhd
+#EXTINF:-1 tvg-id="" tvg-name="北京卡酷" tvg-logo="https://epg.112114.xyz/logo/北京卡酷BTV10.png" group-title="北京",北京卡酷
+http://192.168.1.20:4567/gehua.php?id=bjkk2
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方",四海钓鱼
+http://192.168.1.20:4567/gehua.php?id=shdy2
+#EXTINF:-1 tvg-id="6610" tvg-name="京视剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC8.jpg" group-title="地方",京视剧场
+http://192.168.1.20:4567/gehua.php?id=jsjc2
+#EXTINF:-1 tvg-id="6612" tvg-name="弈坛春秋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg" group-title="地方",弈坛春秋
+http://192.168.1.20:4567/gehua.php?id=ytcq2
+#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="地方",环球奇观
+http://192.168.1.20:4567/gehua.php?id=hqqg2
+#EXTINF:-1 tvg-id="6608" tvg-name="环球旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg" group-title="地方",环球旅游
+http://192.168.1.20:4567/gehua.php?id=hqly2
+#EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="地方",优优宝贝
+http://192.168.1.20:4567/gehua.php?id=yybb2
+#EXTINF:-1 tvg-id="" tvg-name="生态环境" tvg-logo="https://epg.112114.xyz/logo/生态环境.png" group-title="未分类",生态环境
+http://192.168.1.20:4567/gehua.php?id=sthj2
+#EXTINF:-1 tvg-id="" tvg-name="置业频道" tvg-logo="https://epg.112114.xyz/logo/置业.png" group-title="未分类",置业频道
+http://192.168.1.20:4567/gehua.php?id=zypd2
+#EXTINF:-1 tvg-id="" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="未分类",中华特产
+http://192.168.1.20:4567/gehua.php?id=zhtc2
+#EXTINF:-1 tvg-id="" tvg-name="歌华导视" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="未分类",歌华导视
+http://192.168.1.20:4567/gehua.php?id=ghdshd
+#EXTINF:-1 tvg-id="6607" tvg-name="动感音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC5.jpg" group-title="地方",动感音乐
+http://192.168.1.20:4567/gehua.php?id=dgyy2
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
+http://192.168.1.20:4567/gehua.php?id=jsrwhd
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
+http://192.168.1.20:4567/gehua.php?id=shss2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/都市剧场.png" group-title="未分类",都市剧场
+http://192.168.1.20:4567/gehua.php?id=dsjc2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/金色学堂.png" group-title="未分类",金色学堂
+http://192.168.1.20:4567/gehua.php?id=jsxt2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/动漫秀场.png" group-title="未分类",动漫秀场
+http://192.168.1.20:4567/gehua.php?id=dmxc2
+#EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="地方",车迷频道
+http://192.168.1.20:4567/gehua.php?id=cmpd2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/法治天地.png" group-title="未分类",法治天地
+http://192.168.1.20:4567/gehua.php?id=fztd2
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球
+http://192.168.1.20:4567/gehua.php?id=mlzq2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/乐游.png" group-title="未分类",乐游
+http://192.168.1.20:4567/gehua.php?id=ly2
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
+http://192.168.1.20:4567/gehua.php?id=jbty2
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
+http://192.168.1.20:4567/gehua.php?id=yxfy2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/山东教育卫视.png" group-title="未分类",山东教育卫视
+http://192.168.1.20:4567/gehua.php?id=sdjy2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/收藏天下.png" group-title="未分类",收藏天下
+http://192.168.1.20:4567/gehua.php?id=sctx2
+#EXTINF:-1 tvg-id="" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="未分类",中华美食
+http://192.168.1.20:4567/gehua.php?id=zhms2
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
+http://192.168.1.20:4567/gehua.php?id=cpd2
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="地方",天元围棋
+http://192.168.1.20:4567/gehua.php?id=tywq2
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂一年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂一年级
+http://192.168.1.20:4567/gehua.php?id=kzktx1b
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂二年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂二年级
+http://192.168.1.20:4567/gehua.php?id=kzktx2b
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂三年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂三年级
+http://192.168.1.20:4567/gehua.php?id=kzktx3b
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂四年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂四年级
+http://192.168.1.20:4567/gehua.php?id=kzktx4b
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂五年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂五年级
+http://192.168.1.20:4567/gehua.php?id=kzktx5b
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂六年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂六年级
+http://192.168.1.20:4567/gehua.php?id=kzktx6b
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂初一" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂初一
+http://192.168.1.20:4567/gehua.php?id=kzktc1b
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂初二" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂初二
+http://192.168.1.20:4567/gehua.php?id=kzktc2b
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂初三" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂初三
+http://192.168.1.20:4567/gehua.php?id=kzktc3b
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂高一" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂高一
+http://192.168.1.20:4567/gehua.php?id=kzktg1b
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂高二" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂高二
+http://192.168.1.20:4567/gehua.php?id=kzktg2b
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂高三" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂高三
+http://192.168.1.20:4567/gehua.php?id=kzktg3b
