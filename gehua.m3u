@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="体育",魅力足球 8M
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="体育",足球高清 8M
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zqpd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="体育",超级体育 8M
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="体育",新视觉 8M
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育 8M
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育 8M
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="体育",北京体育休闲
+http://192.168.1.20:4567/gehua.php?id=bjtyxxhd
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="体育",CCTV5
+http://192.168.1.20:4567/gehua.php?id=cctv5hd
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="体育",CCTV5+
+http://192.168.1.20:4567/gehua.php?id=cctv5phd
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="体育",CCTV16
+http://192.168.1.20:4567/gehua.php?id=cctv16hd
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://192.168.1.20:4567/gehua.php?id=cctv1hd
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
