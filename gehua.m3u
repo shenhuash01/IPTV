@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="https://epg.112114.xyz/logo/SPOTV" group-title="体育",SPOTV
+http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1101
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV2" tvg-logo="https://epg.112114.xyz/logo/SPOTV2" group-title="体育",SPOTV2
+http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1102
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
 http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1098
 #EXTINF:-1,tvg-id="Fight network" tvg-name="Fight network" tvg-logo="https://epg.112114.xyz/logo/Fight network.png" group-title="体育",Fight network
