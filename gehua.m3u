@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台" group-title="香港",翡翠台
+http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台" group-title="香港",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="https://epg.112114.xyz/logo/SPOTV" group-title="体育",SPOTV
 http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1101
