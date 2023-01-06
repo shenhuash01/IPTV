@@ -3,6 +3,10 @@
 http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/TVB" group-title="香港",翡翠台
 http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2" group-title="香港",J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV" group-title="香港",VIUTV
+http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="https://epg.112114.xyz/logo/SPOTV" group-title="体育",SPOTV
 http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1101
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV2" tvg-logo="https://epg.112114.xyz/logo/SPOTV2" group-title="体育",SPOTV2
