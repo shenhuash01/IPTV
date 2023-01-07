@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕",咪咕1
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1,tvg-id="咪咕2" tvg-name="咪咕2" tvg-logo="https://epg.112114.xyz/logo/咪咕2.png" group-title="咪咕",咪咕2
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1,tvg-id="咪咕3" tvg-name="咪咕3" tvg-logo="https://epg.112114.xyz/logo/咪咕3.png" group-title="咪咕",咪咕3
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+#EXTINF:-1,tvg-id="咪咕4" tvg-name="咪咕4" tvg-logo="https://epg.112114.xyz/logo/咪咕4.png" group-title="咪咕",咪咕4
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1,tvg-id="咪咕5" tvg-name="咪咕5" tvg-logo="https://epg.112114.xyz/logo/咪咕5.png" group-title="咪咕",咪咕5
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+#EXTINF:-1,tvg-id="咪咕6" tvg-name="咪咕6" tvg-logo="https://epg.112114.xyz/logo/咪咕6.png" group-title="咪咕",咪咕6
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1,tvg-id="咪咕7" tvg-name="咪咕7" tvg-logo="https://epg.112114.xyz/logo/咪咕7.png" group-title="咪咕",咪咕7
+http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+#EXTINF:-1,tvg-id="咪咕8" tvg-name="咪咕8" tvg-logo="https://epg.112114.xyz/logo/咪咕8.png" group-title="咪咕",咪咕8
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+#EXTINF:-1,tvg-id="咪咕9" tvg-name="咪咕9" tvg-logo="https://epg.112114.xyz/logo/咪咕9.png" group-title="咪咕",咪咕9
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+#EXTINF:-1,tvg-id="咪咕10" tvg-name="咪咕10" tvg-logo="https://epg.112114.xyz/logo/咪咕10.png" group-title="咪咕",咪咕10
+http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
 #EXTINF:-1,tvg-id="KBS1 HD" tvg-name="KBS1 HD" tvg-logo="https://epg.112114.xyz/logo/KBS1 HD.png" group-title="韩国",KBS1 HD
 http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
 #EXTINF:-1,tvg-id="KBS2 HD" tvg-name="KBS2 HD" tvg-logo="https://epg.112114.xyz/logo/KBS2 HD.png" group-title="韩国",KBS2 HD
