@@ -1,15 +1,18 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="游天堂" tvg-name="游天堂" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jepg" group-title="直播",游天堂
+#EXTINF:-1,tvg-id="游天堂" tvg-name="游天堂" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",游天堂
 https://epg.112114.xyz/douyu/2125
-#EXTINF:-1,tvg-id="虎牙斯诺克" tvg-name="虎牙斯诺克" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jepg" group-title="直播",虎牙斯诺克
-https://epg.112114.xyz/huya/392168
-#EXTINF:-1,tvg-id="虎牙斯诺克1" tvg-name="虎牙斯诺克1" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jepg" group-title="直播",虎牙斯诺克1
-https://epg.112114.xyz/huya/389031
-#EXTINF:-1,tvg-id="王者荣耀KPL" tvg-name="王者荣耀KPL" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jepg" group-title="直播",王者荣耀KPL
+#EXTINF:-1,tvg-id="虎牙斯诺克" tvg-name="虎牙斯诺克" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",虎牙斯诺克
+https://epg.112114.xyz/huya/880214
+#EXTINF:-1,tvg-id="虎牙斯诺克1" tvg-name="虎牙斯诺克1" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",虎牙斯诺克1
+https://epg.112114.xyz/huya/800625
+#EXTINF:-1,tvg-id="王者荣耀KPL" tvg-name="王者荣耀KPL" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",王者荣耀KPL
 https://epg.112114.xyz/huya/660002
-#EXTINF:-1,tvg-id="AZZ清清" tvg-name="AZZ清清" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jepg" group-title="直播",AZZ清清
+#EXTINF:-1,tvg-id="AZZ清清" tvg-name="AZZ清清" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",AZZ清清
 https://epg.112114.xyz/huya/841624
-#EXTINF:-1,tvg-id="张大仙" tvg-name="张大仙" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jepg" group-title="直播",张大仙
+#EXTINF:-1,tvg-id="张大仙" tvg-name="张大仙" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",张大仙
 https://epg.112114.xyz/huya/688
-#EXTINF:-1,tvg-id="狼队FLY" tvg-name="狼队FLY" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jepg" group-title="直播",狼队FLY
+#EXTINF:-1,tvg-id="狼队FLY" tvg-name="狼队FLY" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",狼队FLY
 https://epg.112114.xyz/huya/742610
+#EXTINF:-1,tvg-id="王者荣耀KPL-4K" tvg-name="王者荣耀KPL-4K" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",王者荣耀KPL-4K
+https://epg.112114.xyz/huya/11718758
+
