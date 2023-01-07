@@ -119,14 +119,6 @@ http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海",东方财经 8M
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="KBS1 HD" tvg-name="KBS1 HD" tvg-logo="https://epg.112114.xyz/logo/KBS1 HD.png" group-title="韩国",KBS1 HD
-http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
-#EXTINF:-1,tvg-id="KBS2 HD" tvg-name="KBS2 HD" tvg-logo="https://epg.112114.xyz/logo/KBS2 HD.png" group-title="韩国",KBS2 HD
-http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
-#EXTINF:-1,tvg-id="MBC HD" tvg-name="MBC HD" tvg-logo="https://epg.112114.xyz/logo/MBC HD.png" group-title="韩国",MBC HD
-http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
-#EXTINF:-1,tvg-id="SBS HD" tvg-name="SBS HD" tvg-logo="https://epg.112114.xyz/logo/SBS HD.png" group-title="韩国",SBS HD
-http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
 #EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台" group-title="台湾",中天综合台
 http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台" group-title="台湾",中天新闻台
@@ -173,6 +165,14 @@ http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/重庆新农村.png" group-title="重庆",重庆新农村高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="KBS1 HD" tvg-name="KBS1 HD" tvg-logo="https://epg.112114.xyz/logo/KBS1 HD.png" group-title="韩国",KBS1 HD
+http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
+#EXTINF:-1,tvg-id="KBS2 HD" tvg-name="KBS2 HD" tvg-logo="https://epg.112114.xyz/logo/KBS2 HD.png" group-title="韩国",KBS2 HD
+http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
+#EXTINF:-1,tvg-id="MBC HD" tvg-name="MBC HD" tvg-logo="https://epg.112114.xyz/logo/MBC HD.png" group-title="韩国",MBC HD
+http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
+#EXTINF:-1,tvg-id="SBS HD" tvg-name="SBS HD" tvg-logo="https://epg.112114.xyz/logo/SBS HD.png" group-title="韩国",SBS HD
+http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="电影",CHC高清电影
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="电影",CHC动作电影
