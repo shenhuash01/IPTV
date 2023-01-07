@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="KBS1 HD" tvg-name="KBS1 HD" tvg-logo="https://epg.112114.xyz/logo/KBS1 HD.png" group-title="韩国",KBS1 HD
+http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
+#EXTINF:-1,tvg-id="KBS2 HD" tvg-name="KBS2 HD" tvg-logo="https://epg.112114.xyz/logo/KBS2 HD.png" group-title="韩国",KBS2 HD
+http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
+#EXTINF:-1,tvg-id="MBC HD" tvg-name="MBC HD" tvg-logo="https://epg.112114.xyz/logo/MBC HD.png" group-title="韩国",MBC HD
+http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
+#EXTINF:-1,tvg-id="SBS HD" tvg-name="SBS HD" tvg-logo="https://epg.112114.xyz/logo/SBS HD.png" group-title="韩国",SBS HD
+http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
 #EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台" group-title="台湾",中天综合台
 http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台" group-title="台湾",中天新闻台
@@ -9,6 +17,8 @@ http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 #EXTINF:-1 tvg-id="TVBS亚洲台" tvg-name="TVBS亚洲台" tvg-logo="https://epg.112114.xyz/logo/TVBS" group-title="台湾",TVBS亚洲台
 http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻台.png" group-title="台湾",寰宇新闻台
+http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 #EXTINF:-1 tvg-id="RT英语新闻" tvg-name="RT英语新闻" tvg-logo="https://epg.112114.xyz/logo/RT英语新闻" group-title="台湾",RT英语新闻
 http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
 #EXTINF:-1 tvg-id="TVB明珠台" tvg-name="TVB明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB" group-title="香港",TVB明珠台
