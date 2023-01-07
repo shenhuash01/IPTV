@@ -1,5 +1,5 @@
 #EXTM3U
-:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="https://epg.112114.xyz/logo/TVB" group-title="香港",TVB华丽台
+:-1 tvg-id="TVB明珠台" tvg-name="TVB明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB" group-title="香港",TVB明珠台
 http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
 #EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="https://epg.112114.xyz/logo/TVB" group-title="香港",TVB华丽台
 http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
