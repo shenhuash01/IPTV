@@ -215,16 +215,6 @@ http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
 #EXTINF:-1,tvg-id="哔哩卡式台" tvg-name="哔哩卡式台" tvg-logo="https://epg.112114.xyz/logo/哔哩卡式台.png" group-title="电影",哔哩卡式台
 http://d1--cn-gotcha204-3.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="https://epg.112114.xyz/logo/SPOTV" group-title="体育",SPOTV
-http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1101
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV2" tvg-logo="https://epg.112114.xyz/logo/SPOTV2" group-title="体育",SPOTV2
-http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1102
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
-http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1098
-#EXTINF:-1,tvg-id="Fight network" tvg-name="Fight network" tvg-logo="https://epg.112114.xyz/logo/Fight network.png" group-title="体育",Fight network
-http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/393
-#EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育.png" group-title="体育",纬来体育
-http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/485
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="体育",魅力足球 8M
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="体育",足球高清 8M
