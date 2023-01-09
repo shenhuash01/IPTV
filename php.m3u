@@ -69,3 +69,22 @@ http://192.168.1.20:4567/gdtv.php?id=gdyd
 http://192.168.1.20:4567/gdtv.php?id=gdjk
 #EXTINF:-1,tvg-id="GRTN文化频道" tvg-name="GRTN文化频道" tvg-logo="https://epg.112114.xyz/logo/GRTN文化频道.png" group-title="广东",GRTN文化频道
 http://192.168.1.20:4567/gdtv.php?id=gdwh
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="贵州",贵州卫视
+http://192.168.1.20:4567/gztv.php?id=gzws
+#EXTINF:-1,tvg-id="贵州公共" tvg-name="贵州公共" tvg-logo="https://epg.112114.xyz/logo/贵州公共.png" group-title="贵州",贵州公共
+http://192.168.1.20:4567/gztv.php?id=gzgg
+#EXTINF:-1,tvg-id="贵州影视" tvg-name="贵州影视" tvg-logo="https://epg.112114.xyz/logo/贵州影视.png" group-title="贵州",贵州影视
+http://192.168.1.20:4567/gztv.php?id=gzwy
+#EXTINF:-1,tvg-id="贵州生活" tvg-name="贵州生活" tvg-logo="https://epg.112114.xyz/logo/贵州生活.png" group-title="贵州",贵州生活
+http://192.168.1.20:4567/gztv.php?id=gzsh
+#EXTINF:-1,tvg-id="贵州法制" tvg-name="贵州法制" tvg-logo="https://epg.112114.xyz/logo/贵州法制.png" group-title="贵州",贵州法制
+http://192.168.1.20:4567/gztv.php?id=gzfz
+#EXTINF:-1,tvg-id="贵州科教" tvg-name="贵州科教" tvg-logo="https://epg.112114.xyz/logo/贵州科教.png" group-title="贵州",贵州科教
+http://192.168.1.20:4567/gztv.php?id=gzkj
+#EXTINF:-1,tvg-id="贵州经济" tvg-name="贵州经济" tvg-logo="https://epg.112114.xyz/logo/贵州经济.png" group-title="贵州",贵州经济
+http://192.168.1.20:4567/gztv.php?id=gzjj
+#EXTINF:-1,tvg-id="贵州家有购物" tvg-name="贵州家有购物" tvg-logo="https://epg.112114.xyz/logo/贵州家有购物.png" group-title="贵州",贵州家有购物
+http://192.168.1.20:4567/gztv.php?id=gzjygw
+#EXTINF:-1,tvg-id="贵州移动" tvg-name="贵州移动" tvg-logo="https://epg.112114.xyz/logo/贵州移动.png" group-title="贵州",贵州移动
+http://192.168.1.20:4567/gztv.php?id=gzyd
+
