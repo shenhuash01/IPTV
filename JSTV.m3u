@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="江苏",江苏卫视
 http://192.168.1.20:4567/jstv.php?id=jsws
 #EXTINF:-1,tvg-id="江苏公共新闻" tvg-name="江苏公共新闻" tvg-logo="https://epg.112114.xyz/logo/江苏公共新闻.png" group-title="江苏",江苏公共新闻
