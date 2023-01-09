@@ -23,11 +23,3 @@ http://192.168.1.20:4567/jstv.php?id=jsgj
 http://192.168.1.20:4567/jstv.php?id=hxgw
 #EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="江苏",优漫卡通
 http://192.168.1.20:4567/jstv.php?id=ymkt
-#EXTINF:-1,tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://epg.112114.xyz/logo/南昌新闻综合.png" group-title="南昌",南昌新闻综合
-http://192.168.1.20:4567/jstv.php?id=ncxwzh 
-#EXTINF:-1,tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://epg.112114.xyz/logo/南昌都市.png" group-title="南昌",南昌都市
-http://192.168.1.20:4567/jstv.php?id=ncds 
-#EXTINF:-1,tvg-id="南昌资讯" tvg-name="南昌资讯" tvg-logo="https://epg.112114.xyz/logo/南昌资讯.png" group-title="南昌",南昌资讯
-http://192.168.1.20:4567/jstv.php?id=nczx 
-#EXTINF:-1,tvg-id="南昌公共" tvg-name="南昌公共" tvg-logo="https://epg.112114.xyz/logo/南昌公共.png" group-title="南昌",南昌公共
-http://192.168.1.20:4567/jstv.php?id=ncgg 
