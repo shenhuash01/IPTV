@@ -151,8 +151,6 @@ http://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
 http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
 #EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="电影",纬来电影台
 http://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
-#EXTINF:-1,tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影.png" group-title="电影",好莱坞电影
-http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 #EXTINF:-1,tvg-id="湖南电影台" tvg-name="湖南电影台" tvg-logo="https://epg.112114.xyz/logo/湖南电影台.png" group-title="电影",湖南电影台
 http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f896e9.m3u8
 #EXTINF:-1,tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://epg.112114.xyz/logo/HBO HD.png" group-title="电影",HBO HD
@@ -167,8 +165,6 @@ http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 http://y3y4.f3322.net:9901/hls/9/index.m3u8
 #EXTINF:-1,tvg-id="探索频道HD" tvg-name="探索频道HD" tvg-logo="https://epg.112114.xyz/logo/探索频道HD.png" group-title="电影",探索频道HD
 http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
-#EXTINF:-1,tvg-id="哔哩卡式台" tvg-name="哔哩卡式台" tvg-logo="https://epg.112114.xyz/logo/哔哩卡式台.png" group-title="电影",哔哩卡式台
-http://d1--cn-gotcha204-3.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="体育",魅力足球 8M
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="体育",足球高清 8M
@@ -181,8 +177,6 @@ http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育 8M
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="广州体育" tvg-name="广州体育" tvg-logo="https://epg.112114.xyz/logo/广州体育.png" group-title="体育",广州体育
-http://y3y4.f3322.net:9901/hls/5/index.m3u8
 #EXTINF:-1,tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕",咪咕1
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 #EXTINF:-1,tvg-id="咪咕2" tvg-name="咪咕2" tvg-logo="https://epg.112114.xyz/logo/咪咕2.png" group-title="咪咕",咪咕2
