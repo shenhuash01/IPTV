@@ -125,6 +125,8 @@ http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
 http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/TVB" group-title="香港",翡翠台
 http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
+#EXTINF:-1,tvg-id="TVB明珠台" tvg-name="TVB明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB明珠台.png" group-title="台湾",TVB明珠台
+http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
 #EXTINF:-1 tvg-id="有线财经台" tvg-name="有线财经台" tvg-logo="https://epg.112114.xyz/logo/有线财经台" group-title="香港",有线财经台
 http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
 #EXTINF:-1 tvg-id="有线直播台" tvg-name="有线直播台" tvg-logo="https://epg.112114.xyz/logo/有线直播台" group-title="香港",有线直播台
