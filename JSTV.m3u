@@ -1,0 +1,24 @@
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="江苏",江苏卫视
+http://192.168.1.20:4567/jstv.php?id=jsws
+#EXTINF:-1,tvg-id="江苏公共新闻" tvg-name="江苏公共新闻" tvg-logo="https://epg.112114.xyz/logo/江苏公共新闻.png" group-title="江苏",江苏公共新闻
+http://192.168.1.20:4567/jstv.php?id=jsgg
+#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://epg.112114.xyz/logo/江苏城市.png" group-title="江苏",江苏城市
+http://192.168.1.20:4567/jstv.php?id=jscs
+#EXTINF:-1,tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://epg.112114.xyz/logo/江苏综艺.png" group-title="江苏",江苏综艺
+http://192.168.1.20:4567/jstv.php?id=jszy
+#EXTINF:-1,tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://epg.112114.xyz/logo/江苏影视.png" group-title="江苏",江苏影视
+http://192.168.1.20:4567/jstv.php?id=jsys
+#EXTINF:-1,tvg-id="江苏体育" tvg-name="江苏体育" tvg-logo="https://epg.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育
+http://192.168.1.20:4567/jstv.php?id=jsty
+#EXTINF:-1,tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://epg.112114.xyz/logo/江苏教育.png" group-title="江苏",江苏教育
+http://192.168.1.20:4567/jstv.php?id=jsjy
+#EXTINF:-1,tvg-id="江苏靓妆" tvg-name="江苏靓妆" tvg-logo="https://epg.112114.xyz/logo/江苏靓妆.png" group-title="江苏",江苏靓妆
+http://192.168.1.20:4567/jstv.php?id=jslz
+#EXTINF:-1,tvg-id="江苏学习" tvg-name="江苏学习" tvg-logo="https://epg.112114.xyz/logo/江苏学习.png" group-title="江苏",江苏学习
+http://192.168.1.20:4567/jstv.php?id=xxpd
+#EXTINF:-1,tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://epg.112114.xyz/logo/江苏国际.png" group-title="江苏",江苏国际
+http://192.168.1.20:4567/jstv.php?id=jsgj
+#EXTINF:-1,tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://epg.112114.xyz/logo/好享购物.png" group-title="江苏",好享购物
+http://192.168.1.20:4567/jstv.php?id=hxgw
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="江苏",优漫卡通
+http://192.168.1.20:4567/jstv.php?id=ymkt
