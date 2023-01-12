@@ -107,15 +107,6 @@ http://tt-live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.m3u8
 http://tt-live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="东方财经 " tvg-name="东方财经 " tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
 http://tt-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="台湾",中天综合台
-http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
-#EXTINF:-1 tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="台湾",中天娱乐台
-http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻台
-http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS亚洲台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲台
-http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻台.png" group-title="台湾",寰宇新闻台
 #EXTINF:-1 tvg-id="90350" tvg-name="HK| FAIRCHILD EAST" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png" group-title="CHINA / HONGKONG",HK| FAIRCHILD EAST
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=90350&extension=ts&play_token=w4panUqY4F
 #EXTINF:-1 tvg-id="90351" tvg-name="HK| FAIRCHILD WEST" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png" group-title="CHINA / HONGKONG",HK| FAIRCHILD WEST
