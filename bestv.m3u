@@ -213,7 +213,5 @@ http://192.168.1.20:4567/tide.php?id=szcjsh
 http://192.168.1.20:4567/tide.php?id=szdsj
 #EXTINF:-1,tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="深圳",深圳都市
 http://192.168.1.20:4567/tide.php?id=szds
-#EXTINF:-1,tvg-id="深圳国际" tvg-name="深圳国际" tvg-logo="https://epg.112114.xyz/logo/深圳国际.png" group-title="深圳",深圳国际
-http://192.168.1.20:4567/tide.php?id=szgj
 #EXTINF:-1,tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育健康.png" group-title="深圳",深圳体育
 http://192.168.1.20:4567/tide.php?id=sztyjk
