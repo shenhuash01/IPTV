@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="836374" tvg-name="##### NBA LIVE EVENTS #####" tvg-logo="http://logo.protv.cc/picons/logos/NBA-TV.png" group-title="US| NBA PACKAGE",##### NBA LIVE EVENTS #####
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=836374&extension=ts&play_token=h4UnyVVOxT
 #EXTINF:-1 tvg-id="749756" tvg-name="US| NBA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/NBA-TV.png" group-title="US| NBA PACKAGE",US| NBA TV HD
