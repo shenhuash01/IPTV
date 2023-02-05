@@ -13,8 +13,6 @@ http://192.168.1.17:5678/huya.php?id=841624
 http://192.168.1.17:5678/huya.php?id=0688
 #EXTINF:-1,tvg-id="狼队FLY" tvg-name="狼队FLY" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",狼队FLY
 http://192.168.1.17:5678/huya.php?id=742610
-#EXTINF:-1,tvg-id="王者荣耀KPL-4K" tvg-name="王者荣耀KPL-4K" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",王者荣耀KPL-4K
-http://192.168.1.17:5678/huya.php?id=11718758
 #EXTINF:-1,tvg-id="解说罗尼万" tvg-name="解说罗尼万" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",解说罗尼万
 http://192.168.1.17:5678/huya.php?id=389031
 
