@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="游天堂" tvg-name="游天堂" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",游天堂
 http://192.168.1.20:35455/douyu/2125
+#EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",英雄联盟
+http://192.168.1.20:35455/douyu/288016
 #EXTINF:-1,tvg-id="虎牙斯诺克" tvg-name="虎牙斯诺克" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",虎牙斯诺克
 http://192.168.1.20:35455/huya/880214
 #EXTINF:-1,tvg-id="虎牙斯诺克1" tvg-name="虎牙斯诺克1" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",虎牙斯诺克1
@@ -17,4 +19,5 @@ http://192.168.1.20:35455/huya/742610
 http://192.168.1.20:35455/huya/389031
 #EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",英雄联盟
 http://192.168.1.20:35455/huya/660000
-
+#EXTINF:-1,tvg-id="周星星" tvg-name="周星星" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",周星星
+http://192.168.1.20:35455/huya/11342412
