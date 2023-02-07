@@ -15,5 +15,6 @@ http://192.168.1.20:35455/huya/0688
 http://192.168.1.20:35455/huya/742610
 #EXTINF:-1,tvg-id="解说罗尼万" tvg-name="解说罗尼万" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",解说罗尼万
 http://192.168.1.20:35455/huya/389031
-
+#EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",英雄联盟
+http://192.168.1.20:35455/huya/660000
 
