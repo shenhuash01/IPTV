@@ -21,3 +21,5 @@ http://192.168.1.11:35455/huya/389031
 http://192.168.1.11:35455/huya/660000
 #EXTINF:-1,tvg-id="周星星" tvg-name="周星星" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",周星星
 http://192.168.1.11:35455/huya/11342412
+#EXTINF:-1,tvg-id="新乐体育" tvg-name="新乐" tvg-logo="" group-title="直播",英超
+http://192.168.1.11:35455/douyin/179260431297
