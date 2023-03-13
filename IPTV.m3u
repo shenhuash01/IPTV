@@ -90,3 +90,53 @@ http://192.168.2.1:9999/udp/239.45.0.5:5140
 http://192.168.2.1:9999/udp/239.45.0.6:5140
 #EXTINF:-1 tvg-id="45" tvg-name="甘肃卫视" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/ws/gansu.png" group-title="卫视",甘肃卫视HD
 http://192.168.2.1:9999/udp/239.45.0.15:5140
+#EXTINF:-1 tvg-id="46" tvg-name="快乐垂钓" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/快乐垂钓.png" group-title="地方",快乐垂钓HD
+http://192.168.2.1:9999/udp/239.45.3.12:5140
+#EXTINF:-1 tvg-id="47" tvg-name="茶频道" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/茶频道.png" group-title="地方",茶频道HD
+http://192.168.2.1:9999/udp/239.45.3.18:5140
+#EXTINF:-1 tvg-id="48" tvg-name="足球频道" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/足球频道.png" group-title="地方",足球频道HD
+http://192.168.2.1:9999/udp/239.45.3.22:5140
+#EXTINF:-1 tvg-id="49" tvg-name="游戏风云" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/游戏风云.png" group-title="地方",游戏风云HD
+http://192.168.2.1:9999/udp/239.45.3.131:5140
+#EXTINF:-1 tvg-id="50" tvg-name="生活时尚" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/生活时尚.png" group-title="地方",生活时尚HD
+http://192.168.2.1:9999/udp/239.45.3.132:5140
+#EXTINF:-1 tvg-id="51" tvg-name="动漫秀场" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/动漫秀场.png" group-title="地方",动漫秀场HD
+http://192.168.2.1:9999/udp/239.45.3.134:5140
+#EXTINF:-1 tvg-id="52" tvg-name="都市剧场" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/都市剧场.png" group-title="地方",都市剧场HD
+http://192.168.2.1:9999/udp/239.45.3.136:5140
+#EXTINF:-1 tvg-id="53" tvg-name="法治天地" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/法治天地.png" group-title="地方",法治天地HD
+http://192.168.2.1:9999/udp/239.45.1.46:5140
+#EXTINF:-1 tvg-id="54" tvg-name="欢笑剧场" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/欢笑剧场.png" group-title="地方",欢笑剧场HD
+http://192.168.2.1:9999/udp/239.45.3.196:5140
+#EXTINF:-1 tvg-id="55" tvg-name="都市频道" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/都市频道.png" group-title="地方",都市频道HD
+http://192.168.2.1:9999/udp/239.45.3.236:5140
+#EXTINF:-1 tvg-id="56" tvg-name="哈哈炫动" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/哈哈炫动.png" group-title="地方",哈哈炫动HD
+http://192.168.2.1:9999/udp/239.45.1.55:5140
+#EXTINF:-1 tvg-id="57" tvg-name="东方影视" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/东方影视.png" group-title="地方",东方影视HD
+http://192.168.2.1:9999/udp/239.45.3.237:5140
+#EXTINF:-1 tvg-id="58" tvg-name="纪实人文" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/纪实人文.png" group-title="地方",纪实人文HD
+http://192.168.2.1:9999/udp/239.45.3.212:5140
+#EXTINF:-1 tvg-id="59" tvg-name="新闻综合" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/新闻综合.png" group-title="地方",新闻综合HD
+http://192.168.2.1:9999/udp/239.45.3.209:5140
+#EXTINF:-1 tvg-id="60" tvg-name="五星体育" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/五星体育.png" group-title="地方",五星体育HD
+http://192.168.2.1:9999/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="61" tvg-name="第一财经" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/第一财经.png" group-title="地方",第一财经HD
+http://192.168.2.1:9999/udp/239.45.3.211:5140
+#EXTINF:-1 tvg-id="62" tvg-name="外语频道" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/外语频道.png" group-title="地方",外语频道HD
+http://192.168.2.1:9999/udp/239.45.1.127:5140
+#EXTINF:-1 tvg-id="65" tvg-name="金色学堂" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/金色学堂.png" group-title="地方",金色学堂HD
+http://192.168.2.1:9999/udp/239.45.0.9:5140
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰纪实" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/金鹰纪实.png" group-title="地方",金鹰纪实HD
+http://192.168.2.1:9999/udp/239.45.1.45:5140
+#EXTINF:-1 tvg-id="70" tvg-name="冬奥纪实" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/冬奥纪实.png" group-title="地方",冬奥纪实HD
+http://192.168.2.1:9999/udp/239.45.1.14:5140
+#EXTINF:-1 tvg-id="71" tvg-name="卡酷少儿" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/卡酷少儿.png" group-title="地方",卡酷少儿HD
+http://192.168.2.1:9999/udp/239.45.0.8:5140
+#EXTINF:-1 tvg-id="72" tvg-name="上海教育" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/上海教育.png" group-title="地方",上海教育HD
+http://192.168.2.1:9999/udp/239.45.0.13:5140
+#EXTINF:-1 tvg-id="73" tvg-name="乐游" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/乐游.png" group-title="地方",乐游HD
+http://192.168.2.1:9999/udp/239.45.3.135:5140
+#EXTINF:-1 tvg-id="74" tvg-name="七彩戏剧" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/七彩戏剧.png" group-title="地方",七彩戏剧HD
+http://192.168.2.1:9999/udp/239.45.0.16:5140
+#EXTINF:-1 tvg-id="75" tvg-name="东方财经" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/东方财经.png" group-title="地方",东方财经HD
+http://192.168.2.1:9999/udp/239.45.0.17:5140
