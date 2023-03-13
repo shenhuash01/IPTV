@@ -150,5 +150,5 @@ http://192.168.2.1:9999/udp/239.45.3.107:5140
 http://192.168.2.1:9999/udp/239.45.1.10:5140
 #EXTINF:-1 tvg-id="80" tvg-name="百事通4K儿童" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/百事通4K儿童.png" group-title="4K",百事通4K儿童
 http://192.168.2.1:9999/udp/239.45.1.1:5140
-#EXTINF:-1 tvg-id="81" tvg-name="百事通4K电影" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/百事通4K电影.png" group-title="5K",百事通4K电影
+#EXTINF:-1 tvg-id="81" tvg-name="百事通4K电影" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/百事通4K电影.png" group-title="4K",百事通4K电影
 http://192.168.2.1:9999/udp/239.45.1.9:5140
