@@ -140,6 +140,8 @@ http://192.168.2.1:9999/udp/239.45.3.135:5140
 http://192.168.2.1:9999/udp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="75" tvg-name="东方财经" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/东方财经.png" group-title="地方",东方财经HD
 http://192.168.2.1:9999/udp/239.45.0.17:5140
+#EXTINF:-1 tvg-id="75" tvg-name="百事通体育" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/百事通体育.png" group-title="地方",百事通体育HD
+http://192.168.2.1:9999/rtp/239.45.3.139:5140
 #EXTINF:-1 tvg-id="76" tvg-name="CCTV-16" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/cctv/CCTV-16.png" group-title="4K",CCTV-16 4K
 http://192.168.2.1:9999/udp/239.45.0.12:5140
 #EXTINF:-1 tvg-id="77" tvg-name="欢笑剧场4K" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/欢笑剧场4K.png" group-title="4K",欢笑剧场4K
