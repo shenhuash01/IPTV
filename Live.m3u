@@ -15,6 +15,8 @@ http://192.168.1.2:35455/huya/911117
 http://192.168.1.2:35455/huya/841624
 #EXTINF:-1,tvg-id="蜜小涛" tvg-name="蜜小涛" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",蜜小涛
 http://192.168.1.2:35455/huya/861098
+#EXTINF:-1,tvg-id="呆呆" tvg-name="呆呆" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",呆呆
+http://192.168.1.2:35455/huya/616702
 #EXTINF:-1,tvg-id="张大仙" tvg-name="张大仙" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",张大仙
 http://192.168.1.2:35455/huya/0688
 #EXTINF:-1,tvg-id="狼队FLY" tvg-name="狼队FLY" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",狼队FLY
