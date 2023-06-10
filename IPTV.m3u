@@ -154,7 +154,3 @@ http://192.168.1.2:9988/udp/239.45.1.10:5140
 http://192.168.1.2:9988/udp/239.45.1.1:5140
 #EXTINF:-1 tvg-id="81" tvg-name="百事通4K电影" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/百事通4K电影.png" group-title="4K",百事通4K电影
 http://192.168.1.2:9988/udp/239.45.1.9:5140
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="体育",纬来体育
-https://dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&timestamp=1685658742&rand=L17Mz0bTTN&uuid=9b647b3816b2a66a&from=web&sign=10770aa61aacd62e547e2fb2792aa4f5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="体育",爱尔达体育
-https://dispatch.ulivetv.net/v/live/clecyhjewngg.m3u8?stream_id=clecyhjewngg&timestamp=1685658873&rand=1Q3j5wJYyl&uuid=9b647b3816b2a66a&from=web&sign=df5a064087abe081aef628e9b5b9d213
