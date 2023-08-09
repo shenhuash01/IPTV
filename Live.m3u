@@ -3,7 +3,7 @@
 http://192.168.1.2:35455/douyu/2125
 #EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",英雄联盟
 http://192.168.1.2:35455/douyu/288016
-#EXTINF:-1,tvg-id="王者荣耀" tvg-name="赵怀真" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",英雄联盟
+#EXTINF:-1,tvg-id="王者荣耀" tvg-name="赵怀真" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",赵怀真
 http://192.168.1.2:35455/huya/22814589
 #EXTINF:-1,tvg-id="虎牙斯诺克" tvg-name="虎牙斯诺克" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",虎牙斯诺克
 http://192.168.1.2:35455/huya/880214
