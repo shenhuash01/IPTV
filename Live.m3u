@@ -13,6 +13,8 @@ http://192.168.1.2:35455/huya/880625
 http://192.168.1.2:35455/huya/660002
 #EXTINF:-1,tvg-id="王者荣耀KPL" tvg-name="王者荣耀KPL" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",寒夜
 http://192.168.1.2:35455/huya/911117
+#EXTINF:-1,tvg-id="AZZ清清" tvg-name="AZZ清清" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",北幕
+http://192.168.1.2:35455/huya/31520
 #EXTINF:-1,tvg-id="AZZ清清" tvg-name="AZZ清清" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",AZZ清清
 http://192.168.1.2:35455/huya/841624
 #EXTINF:-1,tvg-id="蜜小涛" tvg-name="蜜小涛" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",蜜小涛
