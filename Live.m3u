@@ -3,6 +3,8 @@
 http://192.168.1.2:35455/douyu/2125
 #EXTINF:-1,tvg-id="波动拳" tvg-name="波动拳" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",波动拳
 http://192.168.1.2:35455/douyu/156332
+#EXTINF:-1,tvg-id="ET" tvg-name="ET" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",ET
+http://192.168.1.2:35455/douyu/73639
 #EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",英雄联盟
 http://192.168.1.2:35455/douyu/288016
 #EXTINF:-1,tvg-id="王者荣耀" tvg-name="赵怀真" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",赵
