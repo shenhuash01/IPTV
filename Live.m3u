@@ -1,47 +1,47 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="游天堂" tvg-name="游天堂" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",游天堂
-http://192.168.1.3:35455/douyu/2125
+http://192.168.1.10:35455/douyu/2125
 #EXTINF:-1,tvg-id="波动拳" tvg-name="波动拳" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",波动拳
-http://192.168.1.3:35455/douyu/156332
+http://192.168.1.10:35455/douyu/156332
 #EXTINF:-1,tvg-id="ET" tvg-name="ET" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",ET
-http://192.168.1.3:35455/douyu/73639
+http://192.168.1.10:35455/douyu/73639
 #EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",英雄联盟
-http://192.168.1.3:35455/douyu/288016
+http://192.168.1.10:35455/douyu/288016
 #EXTINF:-1,tvg-id="王者荣耀" tvg-name="赵怀真" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",赵
-http://192.168.1.3:35455/huya/660282
+http://192.168.1.10:35455/huya/660282
 #EXTINF:-1,tvg-id="王者荣耀" tvg-name="赵怀真" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",澜
-http://192.168.1.3:35455/huya/14062280
+http://192.168.1.10:35455/huya/14062280
 #EXTINF:-1,tvg-id="虎牙斯诺克" tvg-name="虎牙斯诺克" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",虎牙斯诺克
-http://192.168.1.3:35455/huya/880214
+http://192.168.1.10:35455/huya/880214
 #EXTINF:-1,tvg-id="虎牙斯诺克1" tvg-name="虎牙斯诺克1" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",虎牙斯诺克1
-http://192.168.1.3:35455/huya/880625
+http://192.168.1.10:35455/huya/880625
 #EXTINF:-1,tvg-id="王者荣耀KPL" tvg-name="王者荣耀KPL" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",王者荣耀KPL
-http://192.168.1.3:35455/huya/660002
+http://192.168.1.10:35455/huya/660002
 #EXTINF:-1,tvg-id="王者荣耀KPL" tvg-name="王者荣耀KPL" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",孤影
-http://192.168.1.3:35455/huya/321
+http://192.168.1.10:35455/huya/321
 #EXTINF:-1,tvg-id="AZZ清清" tvg-name="AZZ清清" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",北幕
-http://192.168.1.3:35455/huya/31520
+http://192.168.1.10:35455/huya/31520
 #EXTINF:-1,tvg-id="AZZ清清" tvg-name="AZZ清清" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",AZZ清清
-http://192.168.1.3:35455/huya/841624
+http://192.168.1.10:35455/huya/841624
 #EXTINF:-1,tvg-id="蜜小涛" tvg-name="蜜小涛" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",蜜小涛
-http://192.168.1.3:35455/huya/861098
+http://192.168.1.10:35455/huya/861098
 #EXTINF:-1,tvg-id="呆呆" tvg-name="呆呆" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",呆呆
-http://192.168.1.3:35455/huya/616702
+http://192.168.1.10:35455/huya/616702
 #EXTINF:-1,tvg-id="张大仙" tvg-name="张大仙" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",张大仙
-http://192.168.1.3:35455/huya/911117
+http://192.168.1.10:35455/huya/911117
 #EXTINF:-1,tvg-id="狼队FLY" tvg-name="狼队FLY" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",狼队FLY
-http://192.168.1.3:35455/huya/742610
+http://192.168.1.10:35455/huya/742610
 #EXTINF:-1,tvg-id="解说罗尼万" tvg-name="解说罗尼万" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",解说罗尼万
-http://192.168.1.3:35455/huya/389031
+http://192.168.1.10:35455/huya/389031
 #EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",英雄联盟
-http://192.168.1.3:35455/huya/660000
+http://192.168.1.10:35455/huya/660000
 #EXTINF:-1,tvg-id="周星星" tvg-name="周星星" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",周星星
-http://192.168.1.3:35455/huya/11342412
+http://192.168.1.10:35455/huya/11342412
 #EXTINF:-1,tvg-id="德云社" tvg-name="德云社" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",德云社
-http://192.168.1.3:35455/huya/10132155
+http://192.168.1.10:35455/huya/10132155
 #EXTINF:-1,tvg-id="虎牙影院" tvg-name="虎牙影院" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",虎牙影院
-http://192.168.1.3:35455/huya/11601968
+http://192.168.1.10:35455/huya/11601968
 #EXTINF:-1,tvg-id="新乐体育" tvg-name="新乐" tvg-logo="" group-title="直播",英超
-http://192.168.1.3:35455/douyin/414508243574
+http://192.168.1.10:35455/douyin/414508243574
 #EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",JJ斗地主
-http://192.168.1.3:35455/douyin/685317364746
+http://192.168.1.10:35455/douyin/685317364746
