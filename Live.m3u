@@ -43,5 +43,7 @@ http://192.168.100.107:35455/huya/10132155?cdn=TX
 http://192.168.100.107:35455/huya/11601968?cdn=TX
 #EXTINF:-1,tvg-id="新乐体育" tvg-name="新乐" tvg-logo="" group-title="直播",王者荣耀
 http://192.168.100.107:35455/douyin/82485729980
+#EXTINF:-1,tvg-id="新乐体育" tvg-name="新乐" tvg-logo="" group-title="直播",张大仙
+http://192.168.100.107:35455/douyin/63592101250
 #EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",JJ斗地主
 http://192.168.100.107:35455/douyin/685317364746
