@@ -1,0 +1,20 @@
+[
+  {
+    "type": "vless",
+    "name": "🇺🇸America-cf",
+    "server": "cf-vless1.21534450.xyz",
+    "port": 443,
+    "uuid": "aae82600-1489-4a55-ae78-8b3caecfe297",
+    "tls": true,
+    "sni": "cf-vless1.21534450.xyz",
+    "skip-cert-verify": false,
+    "network": "ws",
+    "ws-opts": {
+      "headers": {
+        "Host": "cf-vless1.21534450.xyz"
+      },
+      "path": "/?ed"
+    },
+    "subName": "cf"
+  }
+]
