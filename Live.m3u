@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="游天堂" tvg-name="游天堂" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",游天堂
-http://192.168.31.251:35455/douyu/2125
-#EXTINF:-1,tvg-id="波动拳" tvg-name="波动拳" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",波动拳
-http://192.168.31.251:35455/douyu/156332
-#EXTINF:-1,tvg-id="ET" tvg-name="ET" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",ET
-http://192.168.31.251:35455/douyu/73639
 #EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",英雄联盟LPL
 http://192.168.31.251:35455/douyu/288016
 #EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",王者荣耀KPL
@@ -55,3 +49,5 @@ http://192.168.31.251:35455/douyin/685317364746
 http://192.168.31.251:35455/douyin/76490985813
 #EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",伊翁与谢帅
 http://192.168.31.251:35455/douyin/288789360997
+#EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",高源斗地主
+http://192.168.31.251:35455/douyin/418255309895
