@@ -52,6 +52,9 @@ http://cf.21534450.xyz:5000/tptv/H265-5500k-1080P-cctv15?type=origin
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16
 http://cf.21534450.xyz:5000/tptv/G_CCTV-16-CQ?type=origin
 
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16 4K" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 4K
+http://cf.21534450.xyz:5000/tptv/G_CCTV-16-4K?type=origin
+
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视", CCTV 17
 http://cf.21534450.xyz:5000/tptv/G_CCTV-17-CQ?type=origin
 
@@ -187,8 +190,8 @@ http://cf.21534450.xyz:5000/tptv/HD-10000k-1080P-fhhongkong5s?type=origin
 #EXTINF:-1 tvg-id="纯享-4K" tvg-name="纯享 4K" tvg-logo="https://assets.livednow.com/logo/纯享-4K.png" group-title="其他", 纯享 4K
 http://cf.21534450.xyz:5000/tptv/HD-20M-2160P-chunxiang4k?type=origin
 
-#EXTINF:-1 tvg-id="高清臻享咪咕足球" tvg-name="高清臻享咪咕足球" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="其他", 高清臻享咪咕足球
-http://cf.21534450.xyz:5000/tptv/miguaoyun1-AVS?type=origin
+#EXTINF:-1 tvg-id="臻享咪咕足球频道" tvg-name="臻享咪咕足球频道" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="其他", 臻享咪咕足球频道
+http://cf.21534450.xyz:5000/tptv/miguaoyun01-AVS-4K01?type=origin
 
 #EXTINF:-1 tvg-id="咪咕精彩足球" tvg-name="咪咕精彩足球" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="其他", 咪咕精彩足球
 http://cf.21534450.xyz:5000/tptv/HD-8000k-1080P-miguaoyun1?type=origin
