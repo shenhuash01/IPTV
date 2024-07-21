@@ -17,8 +17,6 @@ http://cf.21534450.xyz:35455/huya/660002
 http://cf.21534450.xyz:35455/huya/321
 #EXTINF:-1,tvg-id="AZZ清清" tvg-name="AZZ清清" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",北幕
 http://cf.21534450.xyz:35455/huya/31520
-#EXTINF:-1,tvg-id="AZZ清清" tvg-name="AZZ清清" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",AZZ清清
-http://cf.21534450.xyz:35455/huya/841624
 #EXTINF:-1,tvg-id="蜜小涛" tvg-name="蜜小涛" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",蜜小涛
 http://cf.21534450.xyz:35455/huya/861098
 #EXTINF:-1,tvg-id="呆呆" tvg-name="呆呆" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",呆呆
@@ -33,8 +31,6 @@ http://cf.21534450.xyz:35455/huya/389031
 http://cf.21534450.xyz:35455/huya/660000
 #EXTINF:-1,tvg-id="周星星" tvg-name="周星星" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",周星星
 http://cf.21534450.xyz:35455/huya/11342412
-#EXTINF:-1,tvg-id="德云社" tvg-name="德云社" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",德云社
-http://cf.21534450.xyz:35455/huya/10132155
 #EXTINF:-1,tvg-id="虎牙影院" tvg-name="虎牙影院" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/huya.jpeg" group-title="直播",虎牙影院
 http://cf.21534450.xyz:35455/huya/11601968
 #EXTINF:-1,tvg-id="新乐体育" tvg-name="新乐" tvg-logo="" group-title="直播",王者荣耀
@@ -51,3 +47,5 @@ http://cf.21534450.xyz:35455/douyin/76490985813
 http://cf.21534450.xyz:35455/douyin/288789360997
 #EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",高源斗地主
 http://cf.21534450.xyz:35455/douyin/418255309895
+#EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",白老师街霸
+http://cf.21534450.xyz:35455/douyin/122968300347
