@@ -698,6 +698,18 @@ http://192.168.31.251:5000/ysp/xinjiang
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://assets.livednow.com/logo/兵团卫视.png" group-title="卫视", 兵团卫视
 http://192.168.31.251:5000/ysp/bingtuan
 
+#EXTINF:-1 tvg-id="2024284901" tvg-name="慢直播丨特罗卡德罗广场" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/1528544116298/a6346129f852c8dc16ba7fa46331d89b.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播丨特罗卡德罗广场
+http://192.168.31.251:5000/ysp/2024284901
+
+#EXTINF:-1 tvg-id="2024285101" tvg-name="慢直播｜凡尔赛宫" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/1530393161609/03d633ff86c992408a72fdf719a3f886.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播｜凡尔赛宫
+http://192.168.31.251:5000/ysp/2024285101
+
+#EXTINF:-1 tvg-id="2024285801" tvg-name="慢直播｜卢浮宫" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/1551283935785/f9e3cfe4eed693a1f6c4d08985bf3963.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播｜卢浮宫
+http://192.168.31.251:5000/ysp/2024285801
+
+#EXTINF:-1 tvg-id="2024280501" tvg-name="慢直播｜法兰西体育场/水上运动中心" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/1525211223093/802e62f02ddb4859c5b1570ceddb40fe.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播｜法兰西体育场/水上运动中心
+http://192.168.31.251:5000/ysp/2024280501
+
 
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
