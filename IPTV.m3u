@@ -698,23 +698,20 @@ http://192.168.31.251:5000/ysp/xinjiang
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://assets.livednow.com/logo/兵团卫视.png" group-title="卫视", 兵团卫视
 http://192.168.31.251:5000/ysp/bingtuan
 
-#EXTINF:-1 tvg-id="2024282301" tvg-name="2024巴黎奥运会足球男子A组 几内亚VS新西兰" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/1352136286216/928380bc8727b9f499af83ff5f821483.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球男子A组 几内亚VS新西兰
-http://192.168.31.251:5000/ysp/2024282301
+#EXTINF:-1 tvg-id="2024331701" tvg-name="2024巴黎奥运会足球女子C组 西班牙VS日本" tvg-logo="https://jietufengmian.yangshipin.cn/20240725/1416517923613/6e670321759f722f490844023ea238a2.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球女子C组 西班牙VS日本
+http://192.168.31.251:5000/ysp/2024331701
 
-#EXTINF:-1 tvg-id="2024320701" tvg-name="2024巴黎奥运会足球男子C组 埃及VS多米尼加" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/1238376161405/c10a78151d7f8c84c779ad70966597c2.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球男子C组 埃及VS多米尼加
-http://192.168.31.251:5000/ysp/2024320701
+#EXTINF:-1 tvg-id="2024322903" tvg-name="2024巴黎奥运会足球女子A组 加拿大VS新西兰" tvg-logo="https://jietufengmian.yangshipin.cn/20240725/1332152690731/06a83a684f6301093b931583ca0d8a98.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球女子A组 加拿大VS新西兰
+http://192.168.31.251:5000/ysp/2024322903
 
-#EXTINF:-1 tvg-id="2024285901" tvg-name="慢直播丨凡尔赛宫" tvg-logo="https://jietufengmian.yangshipin.cn/20240724/2329017682887/3c495757d3f895fc0212e312a61af184.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播丨凡尔赛宫
-http://192.168.31.251:5000/ysp/2024285901
+#EXTINF:-1 tvg-id="2024272101" tvg-name="2024巴黎奥运会手球女子预赛A组 德国VS韩国" tvg-logo="https://jietufengmian.yangshipin.cn/20240722/2337172364190/e861439a756cd3d149235239b78d6ee0.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会手球女子预赛A组 德国VS韩国
+http://192.168.31.251:5000/ysp/2024272101
 
-#EXTINF:-1 tvg-id="2024285501" tvg-name="慢直播丨特罗卡德罗广场" tvg-logo="https://jietufengmian.yangshipin.cn/20240724/2328014892316/b77630f4e2ad26002bb51693eba15b0c.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播丨特罗卡德罗广场
+#EXTINF:-1 tvg-id="2024317701" tvg-name="慢直播丨凡尔赛宫" tvg-logo="https://jietufengmian.yangshipin.cn/20240725/2329029234861/7fef50858264c23aa9d0eb80a697c875.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播丨凡尔赛宫
+http://192.168.31.251:5000/ysp/2024317701
+
+#EXTINF:-1 tvg-id="2024285501" tvg-name="慢直播丨特罗卡德罗广场" tvg-logo="https://jietufengmian.yangshipin.cn/20240725/2329014079124/25bbea6a42fb9546770d72f23c53db23.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播丨特罗卡德罗广场
 http://192.168.31.251:5000/ysp/2024285501
-
-#EXTINF:-1 tvg-id="2024284501" tvg-name="慢直播丨法兰西体育场/水上运动中心" tvg-logo="https://jietufengmian.yangshipin.cn/20240724/2329012662640/836a0a799d3d225cb9f2760d9f07b9bb.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播丨法兰西体育场/水上运动中心
-http://192.168.31.251:5000/ysp/2024284501
-
-#EXTINF:-1 tvg-id="2024285801" tvg-name="慢直播｜卢浮宫" tvg-logo="https://jietufengmian.yangshipin.cn/20240724/2329589623031/b1e4078bd9e74c2a6b3cac9b7c8f299b.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播｜卢浮宫
-http://192.168.31.251:5000/ysp/2024285801
 
 
 #EXTM3U
