@@ -698,20 +698,8 @@ http://192.168.31.251:5000/ysp/xinjiang
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://assets.livednow.com/logo/兵团卫视.png" group-title="卫视", 兵团卫视
 http://192.168.31.251:5000/ysp/bingtuan
 
-#EXTINF:-1 tvg-id="2024331701" tvg-name="2024巴黎奥运会足球女子C组 西班牙VS日本" tvg-logo="https://jietufengmian.yangshipin.cn/20240725/1416517923613/6e670321759f722f490844023ea238a2.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球女子C组 西班牙VS日本
-http://192.168.31.251:5000/ysp/2024331701
-
-#EXTINF:-1 tvg-id="2024322903" tvg-name="2024巴黎奥运会足球女子A组 加拿大VS新西兰" tvg-logo="https://jietufengmian.yangshipin.cn/20240725/1332152690731/06a83a684f6301093b931583ca0d8a98.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球女子A组 加拿大VS新西兰
-http://192.168.31.251:5000/ysp/2024322903
-
-#EXTINF:-1 tvg-id="2024272101" tvg-name="2024巴黎奥运会手球女子预赛A组 德国VS韩国" tvg-logo="https://jietufengmian.yangshipin.cn/20240722/2337172364190/e861439a756cd3d149235239b78d6ee0.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会手球女子预赛A组 德国VS韩国
-http://192.168.31.251:5000/ysp/2024272101
-
-#EXTINF:-1 tvg-id="2024317701" tvg-name="慢直播丨凡尔赛宫" tvg-logo="https://jietufengmian.yangshipin.cn/20240725/2329029234861/7fef50858264c23aa9d0eb80a697c875.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播丨凡尔赛宫
-http://192.168.31.251:5000/ysp/2024317701
-
-#EXTINF:-1 tvg-id="2024285501" tvg-name="慢直播丨特罗卡德罗广场" tvg-logo="https://jietufengmian.yangshipin.cn/20240725/2329014079124/25bbea6a42fb9546770d72f23c53db23.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 慢直播丨特罗卡德罗广场
-http://192.168.31.251:5000/ysp/2024285501
+#EXTINF:-1 tvg-id="2024332601" tvg-name="巴黎奥运会开幕式特别节目" tvg-logo="https://jietufengmian.yangshipin.cn/20240726/1957143595125/f2c2afd56774eb6b716e9ee64d72de1c.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 巴黎奥运会开幕式特别节目
+http://192.168.31.251:5000/ysp/2024332601
 
 
 #EXTM3U
