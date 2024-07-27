@@ -698,8 +698,185 @@ http://192.168.31.251:5000/ysp/xinjiang
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://assets.livednow.com/logo/兵团卫视.png" group-title="卫视", 兵团卫视
 http://192.168.31.251:5000/ysp/bingtuan
 
-#EXTINF:-1 tvg-id="2024332601" tvg-name="巴黎奥运会开幕式特别节目" tvg-logo="https://jietufengmian.yangshipin.cn/20240726/1957143595125/f2c2afd56774eb6b716e9ee64d72de1c.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 巴黎奥运会开幕式特别节目
-http://192.168.31.251:5000/ysp/2024332601
+#EXTINF:-1 tvg-id="2024291401" tvg-name="2024巴黎奥运会篮球男子小组赛B组 法国VS巴西" tvg-logo="https://jietufengmian.yangshipin.cn/20240724/0302079780060/29b3de35a1bdb21b6a68c5ac327081cc.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会篮球男子小组赛B组 法国VS巴西
+http://192.168.31.251:5000/ysp/2024291401
+
+#EXTINF:-1 tvg-id="2024369501" tvg-name="2024巴黎奥运会曲棍球男子分组循环赛A组 德国VS法国" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0954077159311/a8f04e39991c1d917a2cdf9fbd030203.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会曲棍球男子分组循环赛A组 德国VS法国
+http://192.168.31.251:5000/ysp/2024369501
+
+#EXTINF:-1 tvg-id="2024361701" tvg-name="2024巴黎奥运会排球男子预赛B组 波兰VS埃及" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0654407309167/77a3fed0b4c19424a7153d64503d4587.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会排球男子预赛B组 波兰VS埃及
+http://192.168.31.251:5000/ysp/2024361701
+
+#EXTINF:-1 tvg-id="2024359001" tvg-name="2024巴黎奥运会足球男子C组 乌兹别克斯坦VS埃及" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0627367464647/fb52357a9e7ce9f8886b77a375d459c4.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球男子C组 乌兹别克斯坦VS埃及
+http://192.168.31.251:5000/ysp/2024359001
+
+#EXTINF:-1 tvg-id="2024358601" tvg-name="2024巴黎奥运会足球男子B组 乌克兰VS摩洛哥" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0626228627888/680a3b9501ab98b7561f09dd9bfccb61.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球男子B组 乌克兰VS摩洛哥
+http://192.168.31.251:5000/ysp/2024358601
+
+#EXTINF:-1 tvg-id="2024354601" tvg-name="2024巴黎奥运会公路自行车 男子个人计时赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0614335950828/6a0af7692efe934374e93fcf3a16088b.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会公路自行车 男子个人计时赛
+http://192.168.31.251:5000/ysp/2024354601
+
+#EXTINF:-1 tvg-id="2024274501" tvg-name="2024巴黎奥运会七人制橄榄球男子11-12名排名赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/0054597134638/2d2cbeb58643348e2ba4a7fa14677cb5.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会七人制橄榄球男子11-12名排名赛
+http://192.168.31.251:5000/ysp/2024274501
+
+#EXTINF:-1 tvg-id="2024272701" tvg-name="2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷" tvg-logo="https://jietufengmian.yangshipin.cn/20240722/2341003408786/dfd9785f925520009f11fb0b030e9800.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷
+http://192.168.31.251:5000/ysp/2024272701
+
+#EXTINF:-1 tvg-id="2024372903" tvg-name="2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/2331368295656/ff1e873a85566ebc5668fc633e367c74.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段
+http://192.168.31.251:5000/ysp/2024372903
+
+#EXTINF:-1 tvg-id="2024370101" tvg-name="2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/1050527234644/bfcf8a6af85195e26c00210d81bd6cb4.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛
+http://192.168.31.251:5000/ysp/2024370101
+
+#EXTINF:-1 tvg-id="2024369501" tvg-name="2024巴黎奥运会曲棍球男子分组循环赛A组 德国VS法国" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0954077159311/a8f04e39991c1d917a2cdf9fbd030203.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会曲棍球男子分组循环赛A组 德国VS法国
+http://192.168.31.251:5000/ysp/2024369501
+
+#EXTINF:-1 tvg-id="2024361701" tvg-name="2024巴黎奥运会排球男子预赛B组 波兰VS埃及" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0654407309167/77a3fed0b4c19424a7153d64503d4587.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会排球男子预赛B组 波兰VS埃及
+http://192.168.31.251:5000/ysp/2024361701
+
+#EXTINF:-1 tvg-id="2024359001" tvg-name="2024巴黎奥运会足球男子C组 乌兹别克斯坦VS埃及" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0627367464647/fb52357a9e7ce9f8886b77a375d459c4.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球男子C组 乌兹别克斯坦VS埃及
+http://192.168.31.251:5000/ysp/2024359001
+
+#EXTINF:-1 tvg-id="2024358601" tvg-name="2024巴黎奥运会足球男子B组 乌克兰VS摩洛哥" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0626228627888/680a3b9501ab98b7561f09dd9bfccb61.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球男子B组 乌克兰VS摩洛哥
+http://192.168.31.251:5000/ysp/2024358601
+
+#EXTINF:-1 tvg-id="2024354601" tvg-name="2024巴黎奥运会公路自行车 男子个人计时赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0614335950828/6a0af7692efe934374e93fcf3a16088b.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会公路自行车 男子个人计时赛
+http://192.168.31.251:5000/ysp/2024354601
+
+#EXTINF:-1 tvg-id="2024274501" tvg-name="2024巴黎奥运会七人制橄榄球男子11-12名排名赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/0054597134638/2d2cbeb58643348e2ba4a7fa14677cb5.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会七人制橄榄球男子11-12名排名赛
+http://192.168.31.251:5000/ysp/2024274501
+
+#EXTINF:-1 tvg-id="2024272701" tvg-name="2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷" tvg-logo="https://jietufengmian.yangshipin.cn/20240722/2341003408786/dfd9785f925520009f11fb0b030e9800.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷
+http://192.168.31.251:5000/ysp/2024272701
+
+#EXTINF:-1 tvg-id="2024372903" tvg-name="2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/2331368295656/ff1e873a85566ebc5668fc633e367c74.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段
+http://192.168.31.251:5000/ysp/2024372903
+
+#EXTINF:-1 tvg-id="2024370101" tvg-name="2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/1050527234644/bfcf8a6af85195e26c00210d81bd6cb4.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛
+http://192.168.31.251:5000/ysp/2024370101
+
+#EXTINF:-1 tvg-id="2024372801" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 4号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1534492350154/3c1ebdb526d1e6f4b4253cd825a65421.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 4号台
+http://192.168.31.251:5000/ysp/2024372801
+
+#EXTINF:-1 tvg-id="2024361701" tvg-name="2024巴黎奥运会排球男子预赛B组 波兰VS埃及" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0654407309167/77a3fed0b4c19424a7153d64503d4587.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会排球男子预赛B组 波兰VS埃及
+http://192.168.31.251:5000/ysp/2024361701
+
+#EXTINF:-1 tvg-id="2024359001" tvg-name="2024巴黎奥运会足球男子C组 乌兹别克斯坦VS埃及" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0627367464647/fb52357a9e7ce9f8886b77a375d459c4.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球男子C组 乌兹别克斯坦VS埃及
+http://192.168.31.251:5000/ysp/2024359001
+
+#EXTINF:-1 tvg-id="2024358601" tvg-name="2024巴黎奥运会足球男子B组 乌克兰VS摩洛哥" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0626228627888/680a3b9501ab98b7561f09dd9bfccb61.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球男子B组 乌克兰VS摩洛哥
+http://192.168.31.251:5000/ysp/2024358601
+
+#EXTINF:-1 tvg-id="2024354601" tvg-name="2024巴黎奥运会公路自行车 男子个人计时赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0614335950828/6a0af7692efe934374e93fcf3a16088b.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会公路自行车 男子个人计时赛
+http://192.168.31.251:5000/ysp/2024354601
+
+#EXTINF:-1 tvg-id="2024274501" tvg-name="2024巴黎奥运会七人制橄榄球男子11-12名排名赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/0054597134638/2d2cbeb58643348e2ba4a7fa14677cb5.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会七人制橄榄球男子11-12名排名赛
+http://192.168.31.251:5000/ysp/2024274501
+
+#EXTINF:-1 tvg-id="2024272701" tvg-name="2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷" tvg-logo="https://jietufengmian.yangshipin.cn/20240722/2341003408786/dfd9785f925520009f11fb0b030e9800.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷
+http://192.168.31.251:5000/ysp/2024272701
+
+#EXTINF:-1 tvg-id="2024372903" tvg-name="2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/2331368295656/ff1e873a85566ebc5668fc633e367c74.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段
+http://192.168.31.251:5000/ysp/2024372903
+
+#EXTINF:-1 tvg-id="2024370101" tvg-name="2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/1050527234644/bfcf8a6af85195e26c00210d81bd6cb4.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛
+http://192.168.31.251:5000/ysp/2024370101
+
+#EXTINF:-1 tvg-id="2024372801" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 4号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1534492350154/3c1ebdb526d1e6f4b4253cd825a65421.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 4号台
+http://192.168.31.251:5000/ysp/2024372801
+
+#EXTINF:-1 tvg-id="2024247901" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 2号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1527141359791/d77f82a6086785962293b6886b4b9638.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 2号台
+http://192.168.31.251:5000/ysp/2024247901
+
+#EXTINF:-1 tvg-id="2024359001" tvg-name="2024巴黎奥运会足球男子C组 乌兹别克斯坦VS埃及" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0627367464647/fb52357a9e7ce9f8886b77a375d459c4.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球男子C组 乌兹别克斯坦VS埃及
+http://192.168.31.251:5000/ysp/2024359001
+
+#EXTINF:-1 tvg-id="2024358601" tvg-name="2024巴黎奥运会足球男子B组 乌克兰VS摩洛哥" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0626228627888/680a3b9501ab98b7561f09dd9bfccb61.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球男子B组 乌克兰VS摩洛哥
+http://192.168.31.251:5000/ysp/2024358601
+
+#EXTINF:-1 tvg-id="2024354601" tvg-name="2024巴黎奥运会公路自行车 男子个人计时赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0614335950828/6a0af7692efe934374e93fcf3a16088b.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会公路自行车 男子个人计时赛
+http://192.168.31.251:5000/ysp/2024354601
+
+#EXTINF:-1 tvg-id="2024274501" tvg-name="2024巴黎奥运会七人制橄榄球男子11-12名排名赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/0054597134638/2d2cbeb58643348e2ba4a7fa14677cb5.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会七人制橄榄球男子11-12名排名赛
+http://192.168.31.251:5000/ysp/2024274501
+
+#EXTINF:-1 tvg-id="2024272701" tvg-name="2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷" tvg-logo="https://jietufengmian.yangshipin.cn/20240722/2341003408786/dfd9785f925520009f11fb0b030e9800.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷
+http://192.168.31.251:5000/ysp/2024272701
+
+#EXTINF:-1 tvg-id="2024372903" tvg-name="2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/2331368295656/ff1e873a85566ebc5668fc633e367c74.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段
+http://192.168.31.251:5000/ysp/2024372903
+
+#EXTINF:-1 tvg-id="2024370101" tvg-name="2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/1050527234644/bfcf8a6af85195e26c00210d81bd6cb4.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛
+http://192.168.31.251:5000/ysp/2024370101
+
+#EXTINF:-1 tvg-id="2024372801" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 4号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1534492350154/3c1ebdb526d1e6f4b4253cd825a65421.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 4号台
+http://192.168.31.251:5000/ysp/2024372801
+
+#EXTINF:-1 tvg-id="2024247901" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 2号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1527141359791/d77f82a6086785962293b6886b4b9638.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 2号台
+http://192.168.31.251:5000/ysp/2024247901
+
+#EXTINF:-1 tvg-id="2024247801" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 3号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1532391707024/e9953d79e1563b5d90d83fc5c2320b49.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 3号台
+http://192.168.31.251:5000/ysp/2024247801
+
+#EXTINF:-1 tvg-id="2024358601" tvg-name="2024巴黎奥运会足球男子B组 乌克兰VS摩洛哥" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0626228627888/680a3b9501ab98b7561f09dd9bfccb61.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会足球男子B组 乌克兰VS摩洛哥
+http://192.168.31.251:5000/ysp/2024358601
+
+#EXTINF:-1 tvg-id="2024354601" tvg-name="2024巴黎奥运会公路自行车 男子个人计时赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0614335950828/6a0af7692efe934374e93fcf3a16088b.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会公路自行车 男子个人计时赛
+http://192.168.31.251:5000/ysp/2024354601
+
+#EXTINF:-1 tvg-id="2024274501" tvg-name="2024巴黎奥运会七人制橄榄球男子11-12名排名赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/0054597134638/2d2cbeb58643348e2ba4a7fa14677cb5.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会七人制橄榄球男子11-12名排名赛
+http://192.168.31.251:5000/ysp/2024274501
+
+#EXTINF:-1 tvg-id="2024272701" tvg-name="2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷" tvg-logo="https://jietufengmian.yangshipin.cn/20240722/2341003408786/dfd9785f925520009f11fb0b030e9800.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷
+http://192.168.31.251:5000/ysp/2024272701
+
+#EXTINF:-1 tvg-id="2024372903" tvg-name="2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/2331368295656/ff1e873a85566ebc5668fc633e367c74.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段
+http://192.168.31.251:5000/ysp/2024372903
+
+#EXTINF:-1 tvg-id="2024370101" tvg-name="2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/1050527234644/bfcf8a6af85195e26c00210d81bd6cb4.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛
+http://192.168.31.251:5000/ysp/2024370101
+
+#EXTINF:-1 tvg-id="2024372801" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 4号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1534492350154/3c1ebdb526d1e6f4b4253cd825a65421.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 4号台
+http://192.168.31.251:5000/ysp/2024372801
+
+#EXTINF:-1 tvg-id="2024247901" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 2号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1527141359791/d77f82a6086785962293b6886b4b9638.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 2号台
+http://192.168.31.251:5000/ysp/2024247901
+
+#EXTINF:-1 tvg-id="2024247801" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 3号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1532391707024/e9953d79e1563b5d90d83fc5c2320b49.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 3号台
+http://192.168.31.251:5000/ysp/2024247801
+
+#EXTINF:-1 tvg-id="2024246801" tvg-name="2024巴黎奥运会羽毛球小组赛 2号场" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1550274379641/94e7a2add724a9214b62a088a778e9e5.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会羽毛球小组赛 2号场
+http://192.168.31.251:5000/ysp/2024246801
+
+#EXTINF:-1 tvg-id="2024354601" tvg-name="2024巴黎奥运会公路自行车 男子个人计时赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0614335950828/6a0af7692efe934374e93fcf3a16088b.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会公路自行车 男子个人计时赛
+http://192.168.31.251:5000/ysp/2024354601
+
+#EXTINF:-1 tvg-id="2024274501" tvg-name="2024巴黎奥运会七人制橄榄球男子11-12名排名赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240723/0054597134638/2d2cbeb58643348e2ba4a7fa14677cb5.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会七人制橄榄球男子11-12名排名赛
+http://192.168.31.251:5000/ysp/2024274501
+
+#EXTINF:-1 tvg-id="2024272701" tvg-name="2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷" tvg-logo="https://jietufengmian.yangshipin.cn/20240722/2341003408786/dfd9785f925520009f11fb0b030e9800.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会手球男子预赛B组 挪威VS阿根廷
+http://192.168.31.251:5000/ysp/2024272701
+
+#EXTINF:-1 tvg-id="2024372903" tvg-name="2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/2331368295656/ff1e873a85566ebc5668fc633e367c74.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会柔道女子48公斤级、男子60公斤级 决赛阶段
+http://192.168.31.251:5000/ysp/2024372903
+
+#EXTINF:-1 tvg-id="2024370101" tvg-name="2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/1050527234644/bfcf8a6af85195e26c00210d81bd6cb4.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会皮划艇激流回旋 男子单人划艇、女子单人皮艇预赛
+http://192.168.31.251:5000/ysp/2024370101
+
+#EXTINF:-1 tvg-id="2024372801" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 4号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1534492350154/3c1ebdb526d1e6f4b4253cd825a65421.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 4号台
+http://192.168.31.251:5000/ysp/2024372801
+
+#EXTINF:-1 tvg-id="2024247901" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 2号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1527141359791/d77f82a6086785962293b6886b4b9638.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 2号台
+http://192.168.31.251:5000/ysp/2024247901
+
+#EXTINF:-1 tvg-id="2024247801" tvg-name="2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 3号台" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1532391707024/e9953d79e1563b5d90d83fc5c2320b49.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会乒乓球男女单打预赛、混双1/8决赛 3号台
+http://192.168.31.251:5000/ysp/2024247801
+
+#EXTINF:-1 tvg-id="2024246801" tvg-name="2024巴黎奥运会羽毛球小组赛 2号场" tvg-logo="https://jietufengmian.yangshipin.cn/20240720/1550274379641/94e7a2add724a9214b62a088a778e9e5.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会羽毛球小组赛 2号场
+http://192.168.31.251:5000/ysp/2024246801
+
+#EXTINF:-1 tvg-id="2024368101" tvg-name="2024巴黎奥运会网球第1比赛日下午场" tvg-logo="https://jietufengmian.yangshipin.cn/20240727/0749024668838/6c440ada9f87895163706bb629b55866.webp?imageMogr2/format/png/thumbnail/500x" group-title="黄金赛事", 2024巴黎奥运会网球第1比赛日下午场
+http://192.168.31.251:5000/ysp/2024368101
 
 
 #EXTM3U
