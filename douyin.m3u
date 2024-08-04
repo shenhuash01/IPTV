@@ -1,0 +1,24 @@
+#EXTM3U
+
+#EXTINF:-1,tvg-id="新乐体育" tvg-name="新乐" tvg-logo="" group-title="直播",王者荣耀
+http://192.168.31.251:35455/douyin/82485729980
+#EXTINF:-1,tvg-id="新乐体育" tvg-name="新乐" tvg-logo="" group-title="直播",张大仙
+http://192.168.31.251:35455/douyin/63592101250
+#EXTINF:-1,tvg-id="新乐体育" tvg-name="新乐" tvg-logo="" group-title="直播",露娜有痕
+http://192.168.31.251:35455/douyin/507939628780
+#EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",JJ斗地主
+http://192.168.31.251:35455/douyin/685317364746
+#EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",威力
+http://192.168.31.251:35455/douyin/76490985813
+#EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",伊翁与谢帅
+http://192.168.31.251:35455/douyin/288789360997
+#EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",高源斗地主
+http://192.168.31.251:35455/douyin/418255309895
+#EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",白老师街霸
+http://192.168.31.251:35455/douyin/122968300347
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="直播",月神
+http://192.168.31.251:35455/douyin/513883934450
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="直播",抖音电竞
+http://192.168.31.251:35455/douyin/874134046386
