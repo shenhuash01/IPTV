@@ -1,36 +1,36 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",边哥电竞
-http://192.168.31.251:35455/douyu/3952247
+http://192.168.31.129:35455/douyu/3952247
 #EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",王者荣耀KPL
-http://192.168.31.251:35455/douyu/1863767
+http://192.168.31.129:35455/douyu/1863767
 
 #EXTINF:-1,tvg-id="新乐体育" tvg-name="新乐" tvg-logo="" group-title="直播",王者荣耀
-http://192.168.31.251:35455/douyin/82485729980
+http://192.168.31.129:35455/douyin/82485729980
 #EXTINF:-1,tvg-id="新乐体育" tvg-name="新乐" tvg-logo="" group-title="直播",张大仙
-http://192.168.31.251:35455/douyin/63592101250
+http://192.168.31.129:35455/douyin/63592101250
 #EXTINF:-1,tvg-id="新乐体育" tvg-name="新乐" tvg-logo="" group-title="直播",露娜有痕
-http://192.168.31.251:35455/douyin/507939628780
+http://192.168.31.129:35455/douyin/507939628780
 #EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",JJ斗地主
-http://192.168.31.251:35455/douyin/685317364746
+http://192.168.31.129:35455/douyin/685317364746
 #EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",威力
-http://192.168.31.251:35455/douyin/76490985813
+http://192.168.31.129:35455/douyin/76490985813
 #EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",伊翁与谢帅
-http://192.168.31.251:35455/douyin/288789360997
+http://192.168.31.129:35455/douyin/288789360997
 #EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",高源斗地主
-http://192.168.31.251:35455/douyin/418255309895
+http://192.168.31.129:35455/douyin/418255309895
 #EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="" group-title="直播",白老师街霸
-http://192.168.31.251:35455/douyin/122968300347
+http://192.168.31.129:35455/douyin/122968300347
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="直播",月神
-http://192.168.31.251:35455/douyin/513883934450
+http://192.168.31.129:35455/douyin/513883934450
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="直播",抖音电竞
-http://192.168.31.251:35455/douyin/874134046386
+http://192.168.31.129:35455/douyin/874134046386
 
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",格斗游戏官方频道1
-http://192.168.31.251:35455/douyu/11739651
+http://192.168.31.129:35455/douyu/11739651
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/shenhuash01/IPTV/main/douyu.jpeg" group-title="直播",浅溪竹影
-http://192.168.31.251:35455/douyu/12072939
+http://192.168.31.129:35455/douyu/12072939
